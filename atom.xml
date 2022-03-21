@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://erodeesfleurs.github.io/</id>
     <title>ErodeesFleurs&apos;Blog</title>
-    <updated>2022-03-21T12:04:50.653Z</updated>
+    <updated>2022-03-21T12:49:31.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://erodeesfleurs.github.io/"/>
+    <link rel="self" href="https://erodeesfleurs.github.io/atom.xml"/>
     <subtitle>信之则无</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://erodeesfleurs.github.io/images/avatar.png</logo>
+    <icon>https://erodeesfleurs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, ErodeesFleurs&apos;Blog</rights>
 </feed>
